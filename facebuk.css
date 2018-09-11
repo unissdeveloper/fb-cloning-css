@@ -1,0 +1,283 @@
+body {
+	padding: 0;
+	
+
+}
+
+div.header {
+	background-color:#43609C;
+padding:25px 0 10px  0;
+width:980px;
+box-sizing:border-box;
+position:relative;
+margin:auto;
+}
+
+div.logo-fb {
+	
+
+width: 120px;
+margin-left:100px;
+font:normal normal bold 17px/40px arial;
+
+
+}
+div h1 {
+	color:white;
+	padding:0;
+	margin: 0;
+}
+div.logo-fb , div.form-login,p {
+	display: inline-block;
+}
+ p {
+	margin:0 111px 0 0;
+	color:white;
+	font: normal normal normal 12px/10px helvetica;
+	text-transform:capitalize;
+	
+
+}
+div.form-login {
+	position: absolute;
+	right:110px;
+	top:10px;
+	box-sizing:border-box;
+	width: 300px;
+
+}
+div.input {
+	display:inline-block;
+	position: absolute;
+	top:30px;
+	right:0;
+	
+}
+input {
+	width: 120px;
+	position: relative;
+	margin-right:80px;
+	border:1px solid;
+}
+input[type=text] {
+	left:-3px;
+}
+input[type=password]{
+	right:65px;
+}
+div.forget {
+	display: inline-block;
+	position: absolute;
+	right:90px;
+	bottom:0;
+
+}
+.forget p{
+color:rgb(200,200,250);
+}
+button {
+	position:absolute;
+	right: 55px;
+	top:50%;
+	transform:translate(-50%,-50%);
+	background-color:#43609C;
+  
+	color:white;
+	border-radius: 1px;
+	font-weight:bold;
+	    white-space: nowrap;
+	    border:1px solid ;
+	    border-color:rgba(0,0,0,0.3);
+	    padding:3px 4px ;
+	    font-size: 11px;
+}
+div.container {
+	border:1px solid;
+	width:980px;
+	margin:auto;
+	height: 700px;
+	position: relative;
+
+	box-sizing: border-box;
+}
+.main-daftar {
+	
+}
+
+.main-daftar {
+
+	width: 44%;
+	overflow:auto;
+	position: absolute;
+	right: 0px;
+	top:0;
+	padding-top:30px;
+
+	height: 94%;
+
+}
+.main-daftar h4 {
+	font:normal normal bold 30px/20px helvetica;
+	margin:0;
+	padding:0;
+}
+.main-daftar h5 {
+	font:normal normal  17px/10px arial;
+	text-transform:capitalize;
+	font-weight:lighter;
+}
+.daftar-input input[type=text] {
+	margin:1%;
+	padding:0;
+	position: relative;
+	left:0px;
+	width: 175px;
+	padding:10px 0;
+	border-color:rgba(100,100,100,0.5);
+	border-radius:4px;
+	font-size:16px;
+
+	
+
+}
+input::placeholder {
+	text-transform:capitalize;
+	padding-left:10px;
+	color:rgba(100,100,100,0.6);
+	
+}
+div.main-img {
+	width: 500px;
+	margin-top:50px;
+	
+	
+}
+div.main-img h4 {
+	font:normal normal bold 17px/
+25px arial;
+	margin-left: 100px;
+	color:rgb(14,56,95);
+
+}
+div.main-img img {
+	margin-left: 70px;
+}
+div.container li {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+h6 {
+	font:normal normal normal 20px/5px arial;
+	padding:0;
+	margin:25px 25px 0 5px;
+	text-transform:capitalize;
+}
+div.container {
+	background-color:white;
+	border:1px solid rgba(100,100,100,0.4);
+	 background-image: linear-gradient(180deg, white, #DFE3EF);
+	 height: 600px;
+}
+
+div.container a.and{
+	display: inline-block;
+font-size:12px;
+width: 100px;
+position:relative;
+right:-10px;
+top:13px;
+
+}
+div.radio{
+	margin-top:10px;
+	padding:0;
+	
+	width:430px;
+}
+input[type=radio]:not(.mow){
+	display: inline-block;
+	margin:0 20px 0;
+	border:1px solid;
+
+	position:relative;
+	right:140px;
+}
+div.footer {
+	margin-top:30px;
+	width: 400px;
+
+}
+div.footer button {
+	margin-top:10px;
+}
+b.ab{
+	position: absolute;
+	left:40px;
+
+}
+input.mow {
+	position: relative;
+	left:-40px;
+}
+b:last-of-type {
+	
+	position: relative;
+	right:210px;
+}
+b {
+	font:normal normal lighter 15px/50px arial;
+	text-transform:capitalize;
+}
+select {
+	border: 1px solid;
+	padding:5px 7px;
+	margin-left:5px;
+	border-color:rgba(100,100,100,0.5);
+}
+div.footer {
+	font:normal normal normal 11px/10px helvetica;
+	width: 280px;
+	margin-top: 0px;
+	text-align:justify;
+	margin-left:5px;
+	color:rgba(100,100,100,0.7);
+}
+input[type=button].a {
+	margin-top:25px;
+	margin-left:5px;
+	padding:6px 10px;
+	width: 160px;
+	border-radius:4px;
+	background-color:rgb(95,150,76);
+	
+	color:white;
+	font-size:18px;
+	text-shadow:1px 1px 1px black;
+	font-weight:bold;
+}
+li.foot {
+	margin:20px 0 0 5px !important;
+	
+	width:380px;
+	font:normal normal bold 14px/10px arial;
+	color:rgba(100,100,100,0.6);
+}
+a {
+
+	text-decoration: none;
+}
+.cv {
+	color:#365899;
+}
+div.footer a {
+	color:#365899;
+}
+a.and {
+	color:#365899;
+
+
+}
+
+
+
